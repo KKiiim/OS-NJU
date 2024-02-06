@@ -1,0 +1,4 @@
+[submodule "os-workbench"]
+	path = os-workbench
+	url = https://git.nju.edu.cn/jyy/os-workbench.git
+	branch = M1
