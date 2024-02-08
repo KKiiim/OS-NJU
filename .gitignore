@@ -1,1 +1,6 @@
 test
+result.txt
+__pycache__
+a.out
+pstree-64
+.shadow
