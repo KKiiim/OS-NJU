@@ -4,3 +4,4 @@ __pycache__
 a.out
 pstree-64
 .shadow
+*.o
